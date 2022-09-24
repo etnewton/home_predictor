@@ -10,3 +10,5 @@ To keep things simple a linear regression model was fit utilizing sklearn. After
 The model output value of 104,013.57. A few months later we put our house on the market at the advisement of our realtor for price of 97,000. We got multiple offers same day, 2 for 105k and 1 for 110k, and ultimately accepted one of the 105k offers due to other terms of the offer.
 
 Believe this was ultimately a decent model and should have pushed back on our realtor to put on market for higher amount.
+
+Can run predictor file using train_set csv. Personal address information was removed from the other files which generated the train_set data file.
